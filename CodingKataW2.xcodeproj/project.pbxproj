@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		EE98D0C91D82FAB100D7F230 /* LeapYear.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LeapYear.m; sourceTree = "<group>"; };
+		EE98D0CA1D82FAED00D7F230 /* FoodSpoilage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FoodSpoilage.m; sourceTree = "<group>"; };
+		EE98D0CB1D82FBD100D7F230 /* DifferenceOfSumOfSquares.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DifferenceOfSumOfSquares.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		EE98D0C21D82FA9300D7F230 = {
 			isa = PBXGroup;
 			children = (
+				EE98D0C91D82FAB100D7F230 /* LeapYear.m */,
+				EE98D0CA1D82FAED00D7F230 /* FoodSpoilage.m */,
+				EE98D0CB1D82FBD100D7F230 /* DifferenceOfSumOfSquares.m */,
 			);
 			sourceTree = "<group>";
 		};
